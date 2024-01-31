@@ -11,7 +11,7 @@ body{
   */
 
   background: var(--bg-light) no-repeat top center/cover;
-  
+  height: 100vh;
 }
 
 body *{
